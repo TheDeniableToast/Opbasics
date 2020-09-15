@@ -7,17 +7,14 @@ public class Circle {
     }
 
     public Circle(double r) {
-
         radius = r;
     }
 
     public double getRadius() {
-
         return radius;
     }
 
     public void setRadius(double newRadius) {
-
         radius = newRadius;
     }
 
